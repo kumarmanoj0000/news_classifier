@@ -1,2 +1,3 @@
-# news_classifier
-Train a machine learning model to classify news articles (e.g., "business", "tech", "sports", etc.)
+# AI News Classifier 🧠📰
+
+This project classifies news articles into categories using classical machine learning (Scikit-learn). Includes a CLI tool for inference.
